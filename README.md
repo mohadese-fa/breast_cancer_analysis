@@ -6,7 +6,7 @@ This project utilizes machine learning techniques to detect breast cancer using 
 Identify benign and malignant breast cancer using features like Clump Thickness and other medical attributes. The goal is to classify patients into "cancer" and "non-cancer" categories.
 
 ## Data
-The dataset contains diagnostic features such as:
+The dataset is from [Breast Cancer Wisconsin (Diagnostic)](https://www.kaggle.com/datasets/marshuu/breast-cancer), and contains diagnostic features such as:
 - Clump Thickness
 - Uniformity of Cell Size
 - Uniformity of Cell Shape
@@ -28,4 +28,3 @@ The dataset contains diagnostic features such as:
   
 - **SVM**: A classical machine learning algorithm that separates data with a hyperplane.
   - *Confusion Matrix*: Used to evaluate the model's performance and identify areas for improvement.
-
